@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ApiBase",
+    "\\src\\ApiBase.Application",
+    "\\src\\ApiBase.Data",
+    "\\src\\ApiBase.Domain",
+    "\\src\\ApiBase.Infra.CrossCutting",
+    "\\src\\ApiBase.Service",
+    "\\src\\ApiBase.UnitTest"
+  ],
+  "SelectedNode": "\\src\\ApiBase.sln",
+  "PreviewInSolutionExplorer": false
+}
